@@ -56,5 +56,6 @@ state.once('ping', pong);
 state.removeListener('ping', pong);
 state.off('ping', pong);
 
-state.emit('ping');  //doubt
+state.emit('ping');  
 state.emit('ping');
+
