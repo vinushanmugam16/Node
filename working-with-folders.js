@@ -24,7 +24,6 @@ catch(err){
 // }
 
 
-
 // fs.rmdir('./Files/source.txt', err => {
 //   if (err) {
 //     throw err;
@@ -32,4 +31,3 @@ catch(err){
 
 //   console.log(`Directory is deleted!`);
 // });
-

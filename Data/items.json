@@ -1,0 +1,82 @@
+[
+    {
+        "imageUrl": "/assets/image/idly.jpeg",
+        "itemName": "Idly",
+        "price": 35,
+        "quantity": 1,
+        "variety": "Veg",
+        "id": "1"
+    },
+    {
+        "imageUrl": "/assets/image/dosa.jpeg",
+        "itemName": "Dosa",
+        "price": 75,
+        "quantity": 1,
+        "variety": "Veg",
+        "id": "2"
+    },
+    {
+        "imageUrl": "/assets/image/venpongal.jpeg",
+        "itemName": "Venpongal",
+        "price": 50,
+        "quantity": 1,
+        "variety": "Veg",
+        "id": "3"
+    },
+    {
+        "imageUrl": "/assets/image/poori.jpeg",
+        "itemName": "Poori",
+        "price": 60,
+        "quantity": 1,
+        "variety": "Veg",
+        "id": "4"
+    },
+    {
+        "imageUrl": "/assets/image/curdrice.jpeg",
+        "itemName": "Curdrice",
+        "price": 45,
+        "quantity": 1,
+        "variety": "Veg",
+        "id": "5"
+    },
+    {
+        "imageUrl": "/assets/image/friedrice.jpeg",
+        "itemName": "Chicken Fried Rice",
+        "price": 120,
+        "quantity": 1,
+        "variety": "Non",
+        "id": "6"
+    },
+    {
+        "imageUrl": "/assets/image/mushroombriyani.jpeg",
+        "itemName": "Mushroom Briyani",
+        "price": 230,
+        "quantity": 1,
+        "variety": "Veg",
+        "id": "7"
+    },
+    {
+        "imageUrl": "/assets/image/sambar.jpeg",
+        "itemName": "Sambar",
+        "price": 80,
+        "quantity": 1,
+        "variety": "Veg",
+        "id": "8"
+    },
+    {
+        "imageUrl": "/assets/image/naan.jpeg",
+        "itemName": "Butter Naan",
+        "price": 230,
+        "quantity": 1,
+        "variety": "Veg",
+        "id": "9"
+    },
+    {
+        "imageUrl": "/assets/image/paneerbutter.jpeg",
+        "itemName": "Paneer Butter Masala",
+        "price": 310,
+        "quantity": 1,
+        "variety": "Veg",
+        "id": "10"
+    }
+]

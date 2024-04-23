@@ -18,8 +18,8 @@ console.log('Hello World!');
 // })
 
 
-/*** Reading & Writing the file ***/
 
+/*** Reading & Writing the file ***/
 const fs = require('fs');
 let textIn = fs.readFileSync('./Files/input.txt', 'utf-8');
 console.log(textIn);

@@ -1,4 +1,4 @@
-/******Reading files in Async ******/
+/****** Reading files in Async ******/
 
 // let fs = require('fs');
 // fs.readFile('./Files/input.txt', 'utf-8', (err, data) => {
@@ -81,7 +81,6 @@ function initiate() {
         console.log(result);
     });
 }
-
 initiate();
 
 
