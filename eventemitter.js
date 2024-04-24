@@ -36,7 +36,6 @@ state.emit('system');
 state.emit('system');
 
 
-
 const callback = () => {
     console.log('Have a nice day');
 };
@@ -44,7 +43,6 @@ state.on('save', callback);
 console.log('good Listener');
 state.removeListener('save', callback);
 state.emit('save')
-
 
 
 function pong() {
